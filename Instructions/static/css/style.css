@@ -1,0 +1,14 @@
+.container {
+    width: 200px;
+    height: 120px;
+}
+
+/* resize images */
+.container img {
+    width: auto;
+    height: auto;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+}
